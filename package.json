@@ -1,0 +1,12 @@
+{
+  "name": "Wikibot",
+  "version": "1.0.0",
+  "description": "A Wikipedia Bot.",
+  "main": "bot.js",
+  "author": "Atif Mahmud",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "wikiquote": "^0.4.4",
+    "winston": "^3.0.0"
+  }
+}
